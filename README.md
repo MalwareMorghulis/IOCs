@@ -1,8 +1,7 @@
 # IOCs
-LevelBlue (AlienVault) OTX Indicators exported as CSV
-
+- LevelBlue (AlienVault) OTX Indicators exported as CSV
 - The majority of these IOCs were from second-hand reporting of SMS-based phishing attacks or suspicious emails.
-- -These will be kept separate from the DNS Blocklist repo.
+- These will be kept separate from the DNS Blocklist repo.
 
 - See: [LevelBlue OTX for Details](https://otx.alienvault.com/browse/global/pulses?q=tag:%22MalwareMorghulis%22)
 
